@@ -5,7 +5,7 @@ Summary: Xorg X11 font bitstream-type1
 Group: Development/X11
 URL: http://xorg.freedesktop.org
 Source: http://xorg.freedesktop.org/releases/individual/font/font-bitstream-type1-%{version}.tar.bz2
-License: CHECK
+License: MIT-like
 BuildRoot: %{_tmppath}/%{name}-root
 BuildArch: noarch
 BuildRequires: fontconfig
