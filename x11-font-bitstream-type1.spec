@@ -1,6 +1,6 @@
 Name: x11-font-bitstream-type1
 Version: 1.0.3
-Release: %mkrel 6
+Release: 7
 Summary: Xorg X11 font bitstream-type1
 Group: Development/X11
 URL: http://xorg.freedesktop.org
